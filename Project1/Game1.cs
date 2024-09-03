@@ -9,6 +9,8 @@ namespace Project1
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+        //update feature1
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
