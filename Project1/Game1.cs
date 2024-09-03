@@ -9,6 +9,8 @@ namespace Project1
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+        int x = 1;
+
         //update feature1
 
         public Game1()
